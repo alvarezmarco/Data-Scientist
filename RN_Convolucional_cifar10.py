@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#Author: Marco Alvarez M.
+#Este programa es de opensource.
+#Reconocimiento-NoComercial-CompartirtIgual
+#Se puede distribuir y/o moificar siempre y cuando no sean con fines comerciales.
 # In[1]:
 
 
